@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+<Button
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Reset"
+android:id="@+id/r"/>
+
+<LinearLayout 
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+android:padding="4dp"
+android:id="@+id/l1"
+    android:orientation="horizontal">
+
+    <Button
+        android:layout_width="300px"
+android:id="@+id/a1"
+        android:layout_height="300px"
+        android:background="@drawable/blank" />
+
+
+<Button
+        android:layout_width="300px"
+android:id="@+id/a2"
+android:layout_margin="8dp"
+        android:layout_height="300px"
+        android:background="@drawable/blank" />
+
+<Button
+        android:layout_width="300px"
+android:id="@+id/a3"
+        android:layout_height="300px"
+        android:background="@drawable/blank" />
+
+</LinearLayout>
+
+<LinearLayout 
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+android:padding="4dp"
+android:id="@+id/l2"
+    android:orientation="horizontal">
+
+    <Button
+        android:layout_width="300px"
+android:id="@+id/a4"
+        android:layout_height="300px"
+        android:background="@drawable/blank" />
+
+
+<Button
+        android:layout_width="300px"
+android:id="@+id/a5"
+android:layout_margin="8dp"
+        android:layout_height="300px"
+        android:background="@drawable/blank" />
+
+<Button
+        android:layout_width="300px"
+android:id="@+id/a6"
+        android:layout_height="300px"
+        android:background="@drawable/blank" />
+
+</LinearLayout>
+
+<LinearLayout 
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+android:padding="4dp"
+android:id="@+id/l3"
+    android:orientation="horizontal">
+
+    <Button
+        android:layout_width="300px"
+android:id="@+id/a7"
+        android:layout_height="300px"
+        android:background="@drawable/blank" />
+
+
+<Button
+        android:layout_width="300px"
+android:id="@+id/a8"
+android:layout_margin="8dp"
+        android:layout_height="300px"
+        android:background="@drawable/blank" />
+
+<Button
+        android:layout_width="300px"
+android:id="@+id/a9"
+        android:layout_height="300px"
+        android:background="@drawable/blank" />
+
+</LinearLayout>
+
+</LinearLayout>
